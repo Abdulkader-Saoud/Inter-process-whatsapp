@@ -1,3 +1,4 @@
-#Inter-Prcess Whats app project
--#This project is based on the concept of Inter-Process Communication and multi threading
--#tested in linux systems
+## Inter-Prcess Whatsapp project
+- This project is based on the concept of Inter-Process Communication and multi threading
+- You have to a run one server from server.c
+- You can run as much client as you want
