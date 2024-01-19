@@ -1,3 +1,8 @@
-#Inter-Prcess Whats app project
--#This project is based on the concept of Inter-Process Communication and multi threading
--#tested in linux systems
+# Inter-Process WhatsApp Project
+
+This project is built on the principles of Inter-Process Communication (IPC) and multi-threading.
+
+## Overview
+
+- Run the server using `Server.c`.
+- Multiple clients can be executed concurrently.
